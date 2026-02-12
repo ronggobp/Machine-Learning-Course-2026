@@ -68,7 +68,3 @@ Lampirkan screenshot dashboard **Weights & Biases** Anda yang menunjukkan bahwa 
 3. Pastikan link GitHub Anda bersifat **Public** agar dosen dapat memeriksa kode Anda.
 
 ---
-
-* Konsep  secara visual.
-* Penggunaan `Scikit-Learn` untuk membuat model prediksi.
-* Evaluasi model menggunakan MAE dan RMSE.
